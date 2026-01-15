@@ -1,6 +1,6 @@
-# Ram Portfolio
+# Santhosh Portfolio
 
-A minimal portfolio website for Ram.
+A minimal portfolio website for Santhosh.
 
 ## Tech
 
