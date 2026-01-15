@@ -13,14 +13,15 @@ export function GamingSection() {
 
         <div className="space-y-4 text-sm leading-relaxed text-muted-foreground">
           <p>
-            Gaming's always been my thing. Not in a "I'm a gamer" cringey way,
-            but genuinely - it's what I'm good at, what I care about, and what
-            I've spent most of my time doing since I was a kid.
+            Gaming&apos;s always been my thing. Not in a &quot;I&apos;m a gamer&quot;
+            cringey way, but genuinely - it&apos;s what I&apos;m good at, what I
+            care about, and what I&apos;ve spent most of my time doing since I
+            was a kid.
           </p>
           <p>
             I started competing in Call of Duty 4 Promod back in 2016, then
             moved to CS:GO, and eventually Valorant. Hit Radiant in both NA and
-            APAC, peaked at Faceit 10 with 3100 ELO in CS. If you're into
+            APAC, peaked at Faceit 10 with 3100 ELO in CS. If you&apos;re into
             competitive tracking, my profiles are on{" "}
             <a
               href="https://liquipedia.net/valorant/Rafaaaa"

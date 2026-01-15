@@ -15,16 +15,16 @@ export function AboutSection() {
 
         <div className="space-y-4 text-sm leading-relaxed text-muted-foreground">
           <p>
-            I'm Santhosh. I've hit Radiant in two regions and built budgets
+            I&apos;m Santhosh. I&apos;ve hit Radiant in two regions and built budgets
             from scratch in four industries. One of those is definitely more
             impressive to my parents.
           </p>
           <p>
-            I've worked in accounting and finance across retail, manufacturing,
+            I&apos;ve worked in accounting and finance across retail, manufacturing,
             banking, consulting, and a startup I co-founded. Most of my work
             has been around budgeting, forecasting, financial reporting, and
             operational accounting. The common thread? I tend to land in places
-            where the structure doesn't exist yet and needs to be built.
+            where the structure doesn&apos;t exist yet and needs to be built.
           </p>
           <p>
             I also spent years competing professionally in esports- Counter-Strike
@@ -33,12 +33,12 @@ export function AboutSection() {
             discipline, and working under pressure.
           </p>
           <p>
-            These days, I'm focused on Finance/Accounting roles that sit close
+            These days, I&apos;m focused on Finance/Accounting roles that sit close
             to the business. I care about accuracy, clarity, and helping people
             make better decisions with their numbers.
           </p>
           <p>
-            I’m always open to a good conversation, feel free to reach out at{" "}
+            I&apos;m always open to a good conversation, feel free to reach out at{" "}
             <a
               href="mailto:santhoshkumar3730@gmail.com"
               className="text-foreground underline hover:no-underline"
