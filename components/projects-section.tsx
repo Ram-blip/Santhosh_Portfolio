@@ -15,7 +15,7 @@ export function ProjectsSection() {
       description:
         "Developed a $1.05B investment financial model projecting $2.2B profit over 5 years and evaluating a 5-7M subscriber acquisition strategy. Analyzed demand engineering and competitive positioning vs. Netflix to justify $1.05B spending for ecosystem lock-in and customer lifetime value.",
       viewUrl:
-        "https://drive.google.com/file/d/1_jZHzztRy6tK2KF9RgAb9fNCfDxn9xj8/view",
+        "https://drive.google.com/file/d/1Fvb0LTejZVPZrJ8rWCCtNUZbLBBCc7IQ/view",
     },
     {
       title: "Xbox GamePass Tiered Pricing Profitability Model",
