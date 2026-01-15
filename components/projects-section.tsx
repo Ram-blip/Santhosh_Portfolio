@@ -3,7 +3,12 @@ import { Card, CardContent } from "@/components/ui/card"
 import Link from "next/link"
 
 export function ProjectsSection() {
-  const projects = [
+  const projects: Array<{
+    title: string
+    subtitle: string
+    description: string
+    viewUrl: string
+  }> = [
     {
       title: "Apple TV+ Formula One Strategy Analysis",
       subtitle: "Financial Modeling",
@@ -52,7 +57,7 @@ export function ProjectsSection() {
                     {project.description}
                   </p>
                 </div>
-                {(project.viewUrl || project.liveUrl || project.githubUrl) && (
+                {project.viewUrl && (
                   <div className="flex w-full flex-col gap-2 sm:w-auto sm:flex-row sm:flex-wrap md:justify-end">
                     {project.viewUrl && (
                       <Button asChild size="sm" className="w-full sm:w-auto">
@@ -62,33 +67,6 @@ export function ProjectsSection() {
                           rel="noopener noreferrer"
                         >
                           View
-                        </Link>
-                      </Button>
-                    )}
-                    {project.liveUrl && (
-                      <Button asChild size="sm" className="w-full sm:w-auto">
-                        <Link
-                          href={project.liveUrl}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          Live
-                        </Link>
-                      </Button>
-                    )}
-                    {project.githubUrl && (
-                      <Button
-                        asChild
-                        size="sm"
-                        variant="secondary"
-                        className="w-full sm:w-auto"
-                      >
-                        <Link
-                          href={project.githubUrl}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          GitHub
                         </Link>
                       </Button>
                     )}
