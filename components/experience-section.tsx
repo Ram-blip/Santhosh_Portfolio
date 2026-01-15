@@ -50,6 +50,15 @@ export function ExperienceSection() {
         "Managed AR/AP, cash flow, GST filings, and vendor reconciliations, ensuring steady liquidity for production and client delivery.",
       ],
     },
+    {
+      title: "Credit & Business Analysis Intern · Chennai, IND",
+      company: "HDFC Bank",
+      period: "Nov 2019 – Jan 2020",
+      logo: "/hdfc.webp",
+      responsibilities: [
+        "Analyzed SME financial statements and cash flows for loan underwriting, supporting credit decisions on portfolios totaling $1M+ using Excel-based risk and profitability models.",
+      ],
+    },
   ]
 
   return (
