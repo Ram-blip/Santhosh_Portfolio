@@ -41,7 +41,7 @@ const satoshi = localFont({
 export const metadata: Metadata = {
   title: "Santhosh | Financial Accountant",
   description:
-    "Portfolio of Ramsundar Konety Govindarajan, Computer Science and Electronics student at University of Bristol",
+    "Portfolio of Santhosh, Financial Accountant",
   generator: "v0.app",
   icons: {
     icon: [
